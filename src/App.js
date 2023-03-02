@@ -56,7 +56,7 @@ function App() {
       )}
 
       <ToastContainer 
-        autoClose={4000}
+        autoClose={2500}
         theme="colored"
         newestOnTop={true}
       />
